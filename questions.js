@@ -1,0 +1,17 @@
+module.exports = [
+  [0, "Em que ano a Declaração Universal dos Direitos Humanos foi adotada?", ["1945", "1948", "1959", "1989"], 1, "Foi adotada em 10 de dezembro de 1948, em Paris."],
+  [0, "Qual organização adotou a Declaração Universal dos Direitos Humanos?", ["OTAN", "Liga das Nações", "ONU", "Cruz Vermelha"], 2, "A Assembleia Geral da ONU a proclamou."],
+  [0, "Quantos artigos tem a Declaração Universal dos Direitos Humanos?", ["10", "30", "50", "100"], 1, "São 30 artigos, mais o preâmbulo."],
+  [0, "Segundo o Artigo 1º, todos os seres humanos nascem…", ["Livres e iguais em dignidade e direitos", "Iguais apenas perante a lei", "Livres, mas desiguais", "Com direitos conforme a nação"], 0, "Dignidade e direitos são inerentes a todas as pessoas."],
+  [0, "Qual acontecimento histórico motivou a criação da Declaração?", ["A Guerra Fria", "A Revolução Francesa", "A Segunda Guerra Mundial e o Holocausto", "A Crise de 1929"], 2, "Ela nasceu do compromisso de “nunca mais” repetir as atrocidades da guerra."],
+  [1, "O Artigo 3º garante a toda pessoa o direito à…", ["Propriedade de terras", "Vida, liberdade e segurança pessoal", "Armas de defesa", "Dupla nacionalidade"], 1, "É a base de todos os demais direitos."],
+  [1, "O Artigo 5º determina que ninguém será submetido a…", ["Impostos", "Serviço militar", "Tortura nem tratamento cruel, desumano ou degradante", "Julgamento público"], 2, "A proibição da tortura é absoluta."],
+  [1, "O Artigo 9º proíbe que alguém seja arbitrariamente…", ["Preso, detido ou exilado", "Candidato", "Contratado", "Transferido de cidade"], 0, "Prisões sem base legal violam a Declaração."],
+  [1, "O Artigo 2º afirma que os direitos valem sem distinção de…", ["Idade apenas", "Raça, cor, sexo, língua, religião, origem, entre outras", "Renda apenas", "Escolaridade"], 1, "É o princípio da não discriminação."],
+  [1, "O Artigo 18 protege a liberdade de…", ["Pensamento, consciência e religião", "Comércio exterior", "Posse de armas", "Mudança de nome"], 0, "Inclui mudar de religião ou crença."],
+  [2, "Quem presidiu a Comissão de Direitos Humanos que redigiu a Declaração?", ["Winston Churchill", "Eleanor Roosevelt", "Charles de Gaulle", "Franklin Roosevelt"], 1, "Eleanor Roosevelt liderou os trabalhos."],
+  [2, "O Artigo 14 garante a toda pessoa perseguida o direito de…", ["Pedir asilo em outros países", "Ocupar territórios", "Formar exércitos", "Recusar tributos"], 0, "É o direito de buscar e gozar asilo."],
+  [2, "O Artigo 4º estabelece que ninguém será mantido em…", ["Quarentena", "Escravidão ou servidão", "Exílio voluntário", "Greve"], 1, "Proíbe também o tráfico de escravos em todas as formas."],
+  [2, "O Artigo 11 estabelece a presunção de…", ["Culpa", "Inocência até prova em julgamento justo", "Neutralidade", "Soberania"], 1, "Toda pessoa acusada é inocente até que se prove o contrário."],
+  [2, "A Declaração Universal é, juridicamente, um(a)…", ["Tratado obrigatório com sanções", "Resolução da Assembleia Geral, sem força de tratado, mas referência moral e política", "Sentença do Tribunal de Haia", "Lei da OTAN"], 1, "Serviu de base para tratados vinculantes posteriores."],
+];

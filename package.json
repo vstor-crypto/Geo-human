@@ -1,0 +1,1 @@
+{ "name": "ordem-mundial", "version": "2.0.0", "description": "Simulador de guerra educativo sobre a DUDH", "main": "server.js", "scripts": { "start": "node server.js" }, "engines": { "node": ">=16" } }
